@@ -26,6 +26,10 @@ Here are some of my latest projects:
 - **Languages**: C++, Python, JavaScript
 - **Frameworks**: React, Node.js, Express
 - **Tools**: Git, Docker, VS Code
+- Skills
+CC++GitJavaJavaScriptPythonTypeScriptC#VS CodeHTML5ReactNextJsCSS3TailwindCSSReduxWebpackBabelViteNodeJSExpressGraphQLMongoDBMySQLPostgreSQLFirebaseAppwriteFigmaDjangoAmazon Web ServicesDockerLinux
+
+
 
 ---
 
