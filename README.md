@@ -25,7 +25,7 @@ Here are some of my latest projects:
 
 - **Languages**: C++, Python, JavaScript
 - **Frameworks**: React, Node.js, Express
-- **Tools**: Git, Docker, VS Code
+- **Tools**: VS Code, Sublime, Git, Postman,MongoDb Compass, MySQl Workbench, Docker(Familier) 
 - Skills
 
 
