@@ -34,8 +34,10 @@ Here are some of my latest projects:
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gk022135@)
-- **Email**: your.gk022135@.com
+- **LinkedIn**: [Gaurav Kumar](https://www.linkedin.com/in/gauravkrrr/)
+- **Email**:GK022135@gmail.com
+- **Email**:22bcs037@smvdu.ac.in
+- **Website**: [Website](https://frontend-uniator.vercel.app/)
 
 Feel free to check out my repositories and let's collaborate on exciting projects! 😄
 
