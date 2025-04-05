@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# 👋 Hello, I'm Gaurav!
-
 # Hi there! 👋 I'm Gaurav Kumar
 
 🎓 **BTech Student in Computer Science and Engineering (CSE)**  
