@@ -1,3 +1,5 @@
+And here's the raw markdown to paste directly into your GitHub profile `README.md`:
+
 ```markdown
 <div align="center">
 
