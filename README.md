@@ -1,56 +1,78 @@
-# Landed to Gaurav's Profile
+```markdown
+<div align="center">
 
-**BTech Student in Computer Science and Engineering (CSE)**  
-**Currently Learning**: Full-Stack Development, Data Structures & Algorithms, Serverless Architecture  
-**Languages & Technologies**:  
-- **Programming**: C++, JavaScript, TypeScript  
-- **Frontend**: React.js, Next.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB, SQL, PostgreSQL  
-- **DevOps & Tools**: Docker (Basics), Kubernetes (Basics), Postman, Git, Redis  
+### Gaurav Kumar
+`B.Tech CSE · Full-Stack Developer`
 
-## **Projects**
-### QR-Based Entry-Exit System
-> A MERN-based web application that allows students to log their entry and exit using QR codes at the university gate. This system enhances security and efficiency. *(Future scope: Attendance system integration)*
-
-### Real-Time Chat Application
-> A full-stack chat web app where users can register, join, and interact in real-time. Built using the MERN stack with WebSockets for instant messaging.
-
-### Spotify Music Search
-> A Next.js and TypeScript-based app that integrates with Spotify's API to fetch songs, albums, and playlists. Features Google authentication for secure access.
-
-### SQL Interview (Java Desktop App)
-> A desktop application for shop owners to manage suppliers and inventory efficiently.
-
-### Teacher Dashboard
-> A feature-rich dashboard for teachers to create and manage courses, allowing students to mark attendance.
-
-
-## **What I'm Exploring Next?**
-- **Real-Time Code Collaboration Tool** using advanced web technologies.
-- **Deploying & Scaling Applications** with Docker, Kubernetes, and CI/CD.
-- **Building a Chatbot** using React.js.
-- **Event Management Web App** with coupon-based registration.
-
+</div>
 
 ---
 
-## Skills
+```
+// who I am
+```
 
-- **Languages**: C++, Python, JavaScript, TypeScript
-- **Frameworks**: React, Node.js, Express, NextJs, 
-- **Tools**: VS Code, Sublime, Git, Postman,MongoDb Compass, MySQl Workbench, Docker(Familier) 
-
-
+CS student building full-stack web applications with a focus on real-time systems and scalable backends.
+I enjoy the full journey — from designing a clean UI to structuring a database schema and wiring up an API.
+Currently deepening my understanding of DevOps and distributed systems.
 
 ---
 
-## Let's Connect!
+```
+// stack
+```
 
-- **LinkedIn**: [Gaurav Kumar](https://www.linkedin.com/in/gauravkrrr/)
-- **Email**:gk022135@gmail.com
-- **Email**:gauravkrrr02@gmail.com
-- **Website**: [Website](https://frontend-uniator.vercel.app/)
+| layer | technologies |
+|---|---|
+| languages | `C++` `TypeScript` `JavaScript` |
+| frontend | `React.js` `Next.js` `Tailwind CSS` |
+| backend | `Node.js` `Express.js` `WebSockets` |
+| data | `MongoDB` `PostgreSQL` `Redis` |
+| tools | `Git` `Docker` `Kubernetes` `Postman` |
 
-Feel free to check out my repositories and let's collaborate on exciting projects!
+---
 
+```
+// projects
+```
+
+**[qr-entry-exit-system](#)**
+QR-based gate management for universities. Students scan in/out; admins get real-time logs. Designed with future attendance integration in mind.
+`MongoDB` `Express` `React` `Node`
+
+**[realtime-chat-app](#)**
+Room-based chat with low-latency messaging via WebSockets. Supports user auth, multiple rooms, and live presence.
+`MERN` `Socket.io` `JWT`
+
+**[spotify-music-search](#)**
+Browse songs, albums, and playlists via Spotify's Web API. Google OAuth for auth, SSR for fast loads.
+`Next.js` `TypeScript` `Spotify API` `OAuth`
+
+**[teacher-dashboard](#)**
+Course creation and management tool for educators, with student attendance tracking built in.
+`React` `Node` `MongoDB`
+
+**[inventory-manager](#)**
+Desktop app for shop owners to manage suppliers and stock levels.
+`Java` `Swing` `SQL`
+
+---
+
+```
+// building next
+```
+
+- Real-time collaborative code editor — multi-cursor, live sync, Monaco-based
+- Event platform with coupon-based registration and attendee management
+- Containerized deployments — Docker Compose, K8s, GitHub Actions CI/CD
+
+---
+
+```
+// connect
+```
+
+[linkedin](https://www.linkedin.com/in/gauravkrrr/) · [portfolio](https://frontend-uniator.vercel.app/) · [email](mailto:gk022135@gmail.com)
+```
+
+Replace the `(#)` links with your actual repo URLs. The monospace code-comment style (`// stack`, `// projects`) is a popular pattern on real developer profiles — it signals you think in code, not just about code.
