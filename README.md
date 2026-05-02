@@ -11,7 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravkrrr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravkrrr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6E40C9?style=flat-square&logo=vercel&logoColor=white)](https://frontend-uniator.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-gk022135@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gk022135@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=gauravkrrr&style=flat-square&color=6E40C9&label=profile+views)](https://github.com/gauravkrrr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Gaurav__krrr-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gaurav_krrr/)
+[![Profile Views](https://komarev.com/ghpvc/?username=codes-stories&style=flat-square&color=6E40C9&label=profile+views)](https://github.com/codes-stories)
 
 </div>
 
@@ -70,14 +71,36 @@ CS student building full-stack web applications with a focus on **real-time syst
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravkrrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkrrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codes-stories&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes-stories&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkrrr&theme=tokyonight&hide_border=true" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codes-stories&theme=tokyonight&hide_border=true" width="500"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codes-stories&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## LeetCode stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Gaurav_krrr?theme=dark&font=Baloo+2&ext=heatmap&border=0" width="500"/>
+
+</div>
+
+<div align="center">
+
+[![LeetCode Badge](https://img.shields.io/badge/View%20Profile-Gaurav__krrr-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gaurav_krrr/)
 
 </div>
 
@@ -93,6 +116,8 @@ CS student building full-stack web applications with a focus on **real-time syst
 | [Teacher Dashboard](#) | Course + attendance management platform for educators | React · Node · MongoDB | ✅ Live |
 | [Inventory Manager](#) | Desktop app for supplier and stock management | Java · Swing · SQL | ✅ Complete |
 
+> Replace `(#)` with actual repo links.
+
 ---
 
 ## What I'm building next
@@ -102,18 +127,6 @@ CS student building full-stack web applications with a focus on **real-time syst
 ▸ Event management platform             — coupon-based registration system
 ▸ Containerized deployments             — Docker Compose + K8s + GitHub Actions
 ```
-
----
-
-## DSA progress
-
-```text
-Platform        Solved     Streak
-──────────────────────────────────
-LeetCode        —          —
-Codeforces      —          —
-```
-> Replace with your actual stats or add a link to your LeetCode/Codeforces profile.
 
 ---
 
