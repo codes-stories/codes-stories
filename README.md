@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Gaurav%20Kumar&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE&descAlignY=65&descSize=14&descColor=ccbbff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Gaurav%20Kumar&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Software%20@Developer%20%At%20%Scramble%20%Apps&descAlignY=65&descSize=14&descColor=ccbbff" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravkrrr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravkrrr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravkrrr-0A66C2?style=flat-square&logo=lin">kedin&logoColor=white)](https://www.linkedin.com/in/gauravkrrr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6E40C9?style=flat-square&logo=vercel&logoColor=white)](https://frontend-uniator.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-gk022135@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gk022135@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Gaurav__krrr-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gaurav_krrr/)
