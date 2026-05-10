@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravkrrr-0A66C2?style=flat-square&logo=lin">kedin&logoColor=white)](https://www.linkedin.com/in/gauravkrrr/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6E40C9?style=flat-square&logo=vercel&logoColor=white)](https://frontend-uniator.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6E40C9?style=flat-square&logo=vercel&logoColor=white)](https://gaurav-portfolio-sepia.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-gk022135@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gk022135@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Gaurav__krrr-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gaurav_krrr/)
 [![Profile Views](https://komarev.com/ghpvc/?username=codes-stories&style=flat-square&color=6E40C9&label=profile+views)](https://github.com/codes-stories)
